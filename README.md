@@ -1,2 +1,2 @@
-# pms
-simple app to organize your project
+# project-mangement-system
+challange #23-#28
